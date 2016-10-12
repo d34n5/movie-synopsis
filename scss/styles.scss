@@ -1,0 +1,26 @@
+.poster {
+  height: 500px;
+  width: 300px;
+  }
+
+  body {
+    background-image: url(http://www.pptgrounds.com/wp-content/uploads/2012/08/Blue-movie-film-strip-backgrounds-1000x750.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: ivory;
+    font-weight: bold;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+
+button {
+  padding: 5px;
+  background-color: green;
+  color: white;
+  border-radius: 3px;
+  font-size: 1.2em;
+}
+
+input {
+  font-size: 1.5em;
+}
